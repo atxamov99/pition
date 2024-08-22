@@ -1,0 +1,197 @@
+*{
+    background-color: black;
+    color: white;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img_1{
+    background: url(https://s3-alpha-sig.figma.com/img/7b9d/082d/fc490f6d0313520c9a6d28fa002e2d02?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DvShwt9fblXk~qnHE5ERz22TdDUTUuQ9~xe8OreFUhfs2pxc-AnwJc-4jNaraIUvEOciHlSCyK2cjfB1dWtM7vwgnZOwFDXuNg9rhOUym3IFSrYVxfNe~89SekMYVAC254kkqvPd1d1-MhbECq3KxSE-J4oa37wnWA3RY02WBNT3B3WY8NV9dGa4O4kYV05SQrJEDueM0NPWfppl4uKzBV4thsm5gtCDnU2RXoE3AT~b-QdCwe1rR~BQjZpto3rrR7BZG3bp4r8P1o~Q~y6DgalAG2ZxbI1mJtTymBbLMI9~heeTWQB6-OB~foe6hDFmx0M27eJnj5DK4skKACwCBA__);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    margin-right: 300px;
+}
+.katta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.oo_1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 150px;
+}
+.img_s{
+    background: url(https://s3-alpha-sig.figma.com/img/1b50/633a/759a8e362d186f06b705cacba5a931ca?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pJz3uACwlom028QQQ-Btg3pQOrkauAxE8~fj0mHPs~atoIWuXXgNhPkLlawSxYfcR6PKjPJ4h7hkfyuVnnXhW~MVSgKdTYLB9fSDhod7LayVgkhFN9YisWwaVhgZBPhyu2tE9cR9bRdJ~GQraSGWJPhvPjfU328N46iQWn41wxoShcdsiHBupSD02-9qRTnIopPVorlDcCacqkQpbKzKW8-CoiSX2dBBMNyn1AQQDJGP1FnMOhDhBo5myl6qQr8Gr7JYIvgCrebj7uBNeDK6svWRupFU9g0fzgoEcjPUcYD4l-3eaJ7pH9zHNBy8Y3vOtr~rF-I9s5ZiiE93Oik1iw__);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 90vh;
+}
+h2{
+    background-color: white;
+    color: black;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    border-radius: 30px;
+    padding: 10px;
+    position: relative;
+    z-index: 2;
+}
+.relative1{
+    position: relative;
+    z-index: 2;
+    width: 220px;
+    height: 100px;
+    background-color: #32FB00;
+    color: #FF0606;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.absolute1{
+    position: relative;
+    z-index: 3;
+    width: 220px;
+    height: 100px;
+    background-color: #FF0606;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    bottom: 200px;
+    left: 200px;
+}
+
+.relative2{
+    position: relative;
+    z-index: 3;
+    width: 270px;
+    height: 100px;
+    background-color: #FF0606;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    bottom: 330px;
+    left: 650px;
+    border-radius: 100px;
+}
+.absolute2{
+    position: relative;
+    z-index: 2;
+    width: 220px;
+    height: 100px;
+    background-color: #32FB00;
+    color: #FF0606;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    bottom: 390px;
+    left: 680px;
+}
+.relative3{
+    position: relative;
+    z-index: 3;
+    width: 270px;
+    height: 100px;
+    background-color: #FF0606;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    bottom: 590px;
+    left: 1050px;
+}
+.absolute3{
+    position: relative;
+    z-index: 2;
+    width: 220px;
+    height: 100px;
+    background-color: #32FB00;
+    color: #FF0606;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    bottom: 650px;
+    left: 1200px;
+}
+.karopka{
+    width: 200px;
+    height: 100px;
+    background-color: #7B2525;
+    text-align: center;
+    
+    padding-top: 100px;
+    
+}
+.bowwi{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.imgll {
+    background: url(https://s3-alpha-sig.figma.com/img/17ad/d617/3f9233c7dac6b4644ec48807e16f6845?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=U7568ABFnPe56N~grlrjUwYvZKhqAVE9Pq-~zVhkJeswJZ1dQFrEq9rNwbW7WsOYCu7BjwzEoNsSOyxWUjEB5HCn76KJT1UeiyXlSDMDOa1G~agXgCX8w~RRohauywJI3WQa4KTFAZ0o5MHUNg0vrynv356TVdlKyc88aVSQa4n~V2UKGcUjD0GsH7Jp~AR2BzWQCZiuSbeZXkWMfzkaT-WROKg9i1MvbzsPj-PHBj4pXQ6AFDIwlOm48SHS-Ka37SYlawJrx93QNq-5iPXQJpLU97v1N1kXceI78pTt3pOUz46lNz3ccjWKDBHTy3r1aKpSHpFm1Xxbn8QBdrlAJw__);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 160px;
+    height: 50px;
+    
+    bottom: 50px;
+    
+}
+p{
+    background-color: #7B2525;
+}
+.imgff{
+    background: url(https://s3-alpha-sig.figma.com/img/6e71/5e6e/686f045e3a31900afcb1b85d1345da74?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mCxnX6skFbeMvYq89pfccD2g2bMW6FovwbvF4hOum-iRcHIQmz4UcFGYnD~fhbK-rOxlZ-7KnDjXENmcSG-WdUPO4v4fGZxSs-leSOaNESyVCcyUp-BHZd087RJY2JelR~1eYUSjkCy6JHFBPD~~VuIKMLW5jJP-DjjqMx3d2JoRYfiLzlXpvnd4QMW5PCuaxSSD5S19tTymVeHzWFIHga57jO5-SUcIBzb77nASF4bt5Y8f0KmFQV8MgIhwIRE-mzNU4ZXQEwU2LpQSt2Lf8d~FREcQG22xFWVDBWmHN9MpJGgTGbD7gqFwnef5dYCeTLqsP8by3AhPsD04OgVsfg__);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 160px;
+    height: 50px;
+    
+    bottom: 50px;
+}
+.ff{
+    background: url(https://s3-alpha-sig.figma.com/img/7b9d/082d/fc490f6d0313520c9a6d28fa002e2d02?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DvShwt9fblXk~qnHE5ERz22TdDUTUuQ9~xe8OreFUhfs2pxc-AnwJc-4jNaraIUvEOciHlSCyK2cjfB1dWtM7vwgnZOwFDXuNg9rhOUym3IFSrYVxfNe~89SekMYVAC254kkqvPd1d1-MhbECq3KxSE-J4oa37wnWA3RY02WBNT3B3WY8NV9dGa4O4kYV05SQrJEDueM0NPWfppl4uKzBV4thsm5gtCDnU2RXoE3AT~b-QdCwe1rR~BQjZpto3rrR7BZG3bp4r8P1o~Q~y6DgalAG2ZxbI1mJtTymBbLMI9~heeTWQB6-OB~foe6hDFmx0M27eJnj5DK4skKACwCBA__);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    
+}
+
+
+
+
+
+
+
+
